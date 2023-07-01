@@ -1,6 +1,6 @@
 # Index
 
-## See my pinned repos below for a brief summary of what I am interested in
+## See my pinned repos below(my github pins) for a brief summary of what I am interested in
 
 ## Open Source Commits/Forks
 
