@@ -1,4 +1,4 @@
-See my pinned repos below (my GitHub pins) for a brief summary of what I am interested in.
+***See my pinned repos below (my GitHub pins) for a brief summary of what I am interested in.***
 
 # Index
 
