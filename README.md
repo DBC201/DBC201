@@ -1,61 +1,96 @@
-See my pinned repos below(my github pins) for a brief summary of what I am interested in
+See my pinned repos below (my GitHub pins) for a brief summary of what I am interested in.
 
+# Index
 
-## Index
+## Open Source Commits/Forks
 
-### Open Source Commits/Forks
+### better-sqlite3-session-store
+- [https://github.com/DBC201/better-sqlite3-session-store](https://github.com/DBC201/better-sqlite3-session-store)
 
-- [better-sqlite3-session-store](https://github.com/DBC201/better-sqlite3-session-store)
+## Full Scale Projects
 
-### Full Scale Projects
+### rocket-dodge-server
+- [https://github.com/DBC201/rocket_dodge_server](https://github.com/DBC201/rocket_dodge_server)
 
-- [rocket-dodge-server](https://github.com/DBC201/rocket_dodge_server)
-- [Reverse-Shell](https://github.com/DBC201/Reverse-Shell)
-- [git-pull](https://github.com/DBC201/git-pull)
-- [rocket-dodge-unity](https://github.com/DBC201/rocket-dodge-unity)
+### Reverse-Shell
+- [https://github.com/DBC201/Reverse-Shell](https://github.com/DBC201/Reverse-Shell)
 
-#### Luna
+### git-pull
+- [https://github.com/DBC201/git-pull](https://github.com/DBC201/git-pull)
 
+### rocket-dodge-unity
+- [https://github.com/DBC201/rocket-dodge-unity](https://github.com/DBC201/rocket-dodge-unity)
+
+### Luna
 - [luna_interface](https://github.com/DBC201/luna_interface)
 - [Luna](https://github.com/DBC201/Luna)
 
-- [trade-ark](https://github.com/DBC201/trade-ark)
-- [virtual-keyboard](https://github.com/DBC201/virtual-keyboard)
-- [blackjack-python](https://github.com/DBC201/blackjack-python)
-- [Editor](https://github.com/DBC201/Editor)
-- [equation-parser](https://github.com/DBC201/equation-parser)
+### trade-ark
+- [https://github.com/DBC201/trade-ark](https://github.com/DBC201/trade-ark)
 
-### Deep Learning
+### virtual-keyboard
+- [https://github.com/DBC201/virtual-keyboard](https://github.com/DBC201/virtual-keyboard)
 
-- [neural-network](https://github.com/DBC201/neural-network)
+### blackjack-python
+- [https://github.com/DBC201/blackjack-python](https://github.com/DBC201/blackjack-python)
 
-### Algorithms/Data Structures/Puzzles/Thought Experiments
+### Editor
+- [https://github.com/DBC201/Editor](https://github.com/DBC201/Editor)
 
-- [Algorithms-and-Data-Structures](https://github.com/DBC201/Algorithms-and-Data-Structures)
-- [sequence-interpolation](https://github.com/DBC201/sequence-interpolation)
+### equation-parser
+- [https://github.com/DBC201/equation-parser](https://github.com/DBC201/equation-parser)
 
-#### Advent of Code
+## Deep Learning
 
+### neural-network
+- [https://github.com/DBC201/neural-network](https://github.com/DBC201/neural-network)
+
+## Algorithms/Data Structures/Puzzles/Thought Experiments
+
+### Algorithms-and-Data-Structures
+- [https://github.com/DBC201/Algorithms-and-Data-Structures](https://github.com/DBC201/Algorithms-and-Data-Structures)
+
+### sequence-interpolation
+- [https://github.com/DBC201/sequence-interpolation](https://github.com/DBC201/sequence-interpolation)
+
+### Advent of Code
 - [Advent-of-Code-2022](https://github.com/DBC201/Advent-of-Code-2022)
 - [Advent-of-Code-2021](https://github.com/DBC201/Advent-of-Code-2021)
 - [Advent-of-Code-2020](https://github.com/DBC201/Advent-of-Code-2020)
 - [Advent-of-Code-2015](https://github.com/DBC201/Advent-of-Code-2015)
 
-### C++
+## C++
 
-- [socket-example-cpp](https://github.com/DBC201/socket-example-cpp)
-- [Timer-cpp](https://github.com/DBC201/Timer-cpp)
-- [Third-degree-graph-cpp](https://github.com/DBC201/Third-degree-graph-cpp)
-- [Snake-cpp](https://github.com/DBC201/Snake-cpp)
+### socket-example-cpp
+- [https://github.com/DBC201/socket-example-cpp](https://github.com/DBC201/socket-example-cpp)
 
-### C
+### Timer-cpp
+- [https://github.com/DBC201/Timer-cpp](https://github.com/DBC201/Timer-cpp)
 
-- [Prime-generator-c](https://github.com/DBC201/Prime-generator-c)
-- [Hangman-c](https://github.com/DBC201/Hangman-c)
-- [Encrypter-c](https://github.com/DBC201/Encrypter-c)
-- [Chess-companion-c](https://github.com/DBC201/Chess-companion-c)
+### Third-degree-graph-cpp
+- [https://github.com/DBC201/Third-degree-graph-cpp](https://github.com/DBC201/Third-degree-graph-cpp)
 
-### Python
+### Snake-cpp
+- [https://github.com/DBC201/Snake-cpp](https://github.com/DBC201/Snake-cpp)
 
-- [encryption-python](https://github.com/DBC201/encryption-python)
-- [Postman](https://github.com/DBC201/Postman)
+## C
+
+### Prime-generator-c
+- [https://github.com/DBC201/Prime-generator-c](https://github.com/DBC201/Prime-generator-c)
+
+### Hangman-c
+- [https://github.com/DBC201/Hangman-c](https://github.com/DBC201/Hangman-c)
+
+### Encrypter-c
+- [https://github.com/DBC201/Encrypter-c](https://github.com/DBC201/Encrypter-c)
+
+### Chess-companion-c
+- [https://github.com/DBC201/Chess-companion-c](https://github.com/DBC201/Chess-companion-c)
+
+## Python
+
+### encryption-python
+- [https://github.com/DBC201/encryption-python](https://github.com/DBC201/encryption-python)
+
+### Postman
+- [https://github.com/DBC201/Postman](https://github.com/DBC201/Postman)
