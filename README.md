@@ -1,4 +1,4 @@
-***See my pinned repos below (my GitHub pins) for a brief summary of what I am interested in.***
+***See [here](https://dbc201.github.io/) for highlighted projects and [here](https://dbc201.github.io/github_index.html) for html of this readme.***
 
 # Index
 
